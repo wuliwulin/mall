@@ -1,0 +1,40 @@
+{
+	"code":200,
+	"msg":"",
+	"data":{
+		"swiper": [
+			"/static/images/dianshi.jpg",
+			"/static/images/shouji6X.jpg",
+			"/static/images/youxiben.jpg"
+		],
+		"activity":[
+			{
+				"img":"/static/images/router4.png",
+			    "name":"品牌：Hxx-Luxury",
+			    "desc":"这是个秋季好品牌"
+			},
+			{
+				"img":"/static/images/rednote5.jpg",
+			    "name":"品牌：Hxx-Luxury",
+			    "desc":"这是个秋季好品牌"
+			},
+			{
+				"img":"/static/images/hongmi5.png",
+			    "name":"品牌：Hxx-Luxury",
+			    "desc":"这是个秋季好品牌"
+			}
+		],
+		"recommend":[
+			{
+				"img":"/static/images/erji.jpg",
+			    "name":"高端什么什么衣服衣服衣服",
+			    "desc":"123"
+			},
+			{
+				"img":"/static/images/shouhuan.jpg",
+			    "name":"品牌：Hxx-Luxury",
+			    "desc":""
+			}
+		]
+	}
+}
